@@ -3,7 +3,7 @@
 ## Discriptions
 This Program is written in Java in IntelliJ
 
-## Instalation and Run
+## Installation and Run
 - Download IntelliJ: https://www.jetbrains.com/de-de/idea/
 - Install IntelliJ on your computer
 - Open the program in IntelliJ
